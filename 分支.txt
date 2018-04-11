@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 主线helloworld
-=======
-支线支线helloworld
->>>>>>> new-masterh
